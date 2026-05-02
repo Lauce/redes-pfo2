@@ -72,3 +72,17 @@ Nunca se deben guardar contraseñas en texto plano.
 - Es suficiente para proyectos pequeños y de desarrollo.
 - Viene incluido en Python, sin dependencias extra.
 - Fácil de transportar: toda la base de datos es un solo archivo.
+
+## Capturas de pantalla
+
+### Registro exitoso
+![registro](img/registro.png)
+
+### Login exitoso
+![login](img/login.png)
+
+### Página de tareas
+![tareas](img/tareas.png)
+
+### GitHub Pages
+![pages](img/pages.png)
